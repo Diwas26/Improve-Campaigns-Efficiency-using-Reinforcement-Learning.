@@ -9,6 +9,7 @@ Also in our case study we will be facing 9 different strategies, and our AI will
 **Simulation**
 
 In order to simulate this case study, we will assume these strategies have the following conversion rates:
+
 S1 - 0.22 ,  
 S2 - 0.17 ,  
 S3 - 0.14 ,  
