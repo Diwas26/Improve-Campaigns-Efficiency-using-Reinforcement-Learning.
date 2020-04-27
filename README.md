@@ -6,7 +6,7 @@ some products on the website from time to time, getting them delivered at home. 
 
 Also in our case study we will be facing 9 different strategies, and our AI will have no idea of which is the best one, and absolutely no prior information on any of their conversion rates. However we will make the assumption that each of these 9 strategies does have a fixed conversion rate. These strategies were carefully and smartly elaborated by the marketing team, and each of them has the same goal: convert the maximum clients to the premium plan. However, these 9 strategies will be all different.
 
-Simulation
+**Simulation**
 
 In order to simulate this case study, we will assume these strategies have the following conversion rates:
 S1 - 0.22 
