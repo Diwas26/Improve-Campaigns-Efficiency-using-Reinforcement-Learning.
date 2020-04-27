@@ -21,6 +21,7 @@ S9 - 0.10
 
 However, in a real life situation we would have no idea of what would be these conversion rates. We only know them here for simulation purposes, just so that we can check in the end that our AI manages to figure out the best strategy.
 
+![Simulated_Rewards_Matrix](https://github.com/Diwas26/Improve-Campaigns-Efficiency-using-Reinforcement-Learning./blob/master/1.png)
 
   
 
