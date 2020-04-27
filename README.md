@@ -1,4 +1,4 @@
-# Improve-Campaigns-Efficiency-using-Reinforcement-Learning.
+# Improve Campaigns Efficiency using Reinforcement-Learning.
 Technology has changed the way how we walk, talk, think and even also the way we do business. Even e-commerce, banking are not untouched by this revolution. Using latest and best in class algorithms for business problems have given us some unprecedented results in recent times. Here we introduce a award winning multi armed bandits technique called "Thomson's Sampling" for one of our case study problems, where we need to find the best strategy to use for customer's so that they will subscribe to the subscription plan.
 
 Now for our real life case study, Imagine an Online Retail Business that has million's of customers. These customers are only people buying
@@ -9,14 +9,18 @@ Also in our case study we will be facing 9 different strategies, and our AI will
 **Simulation**
 
 In order to simulate this case study, we will assume these strategies have the following conversion rates:
-S1 - 0.22 
-S2 - 0.17 
-S3 - 0.14 
-S4 - 0.09 
-S5 - 0.11 
-S6 - 0.14 
-S7 - 0.20 
-S8 - 0.08 
+S1 - 0.22 ,  
+S2 - 0.17 ,  
+S3 - 0.14 ,  
+S4 - 0.09 ,  
+S5 - 0.11 ,  
+S6 - 0.14 ,  
+S7 - 0.20 ,  
+S8 - 0.08 ,  
 S9 - 0.10
 
 However, in a real life situation we would have no idea of what would be these conversion rates. We only know them here for simulation purposes, just so that we can check in the end that our AI manages to figure out the best strategy.
+
+
+  
+
